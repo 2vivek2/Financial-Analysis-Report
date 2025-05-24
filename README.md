@@ -64,6 +64,7 @@ The dashboard focuses on the following core financial metrics:
 - 💵 **Total Funded Amount**
 - 📥 **Total Amount Received**
 
+![Superstore Report Dashboard](https://github.com/2vivek2/Financial-Analysis-Report/blob/main/FP%20report3.png)
 ---
 
 ## 🛠️ Tech Stack
