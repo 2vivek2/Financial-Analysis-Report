@@ -31,6 +31,8 @@ This **Financial Data Analysis Dashboard** provides a comprehensive visual analy
 
 ## 📈 Visualizations
 
+![Superstore Report Dashboard](https://github.com/2vivek2/Financial-Analysis-Report/blob/main/FP%20Report.png)
+
 ### 🔹 Monthly Trends by Issue Date *(Line Chart)*
 > Track long-term patterns and seasonality in lending activity.
 
