@@ -33,7 +33,6 @@ This **Financial Data Analysis Dashboard** provides a comprehensive visual analy
 
 ![Superstore Report Dashboard](https://github.com/2vivek2/Financial-Analysis-Report/blob/main/FP%20Report.png)
 
-![Superstore Report Dashboard](https://github.com/2vivek2/Financial-Analysis-Report/blob/main/FP%20Report%20.png)
 
 ### 🔹 Monthly Trends by Issue Date *(Line Chart)*
 > Track long-term patterns and seasonality in lending activity.
@@ -52,6 +51,8 @@ This **Financial Data Analysis Dashboard** provides a comprehensive visual analy
 
 ### 🏠 Home Ownership *(Tree Map)*
 > Explore how home ownership affects borrowing patterns.
+
+![Superstore Report Dashboard](https://github.com/2vivek2/Financial-Analysis-Report/blob/main/FP%20Report%20.png)
 
 ---
 
